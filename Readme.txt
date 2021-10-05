@@ -1,6 +1,10 @@
 # Readme
 
 #### ABOUT:  Data from the Costs of Climate Change series is available through GitHub. This data has been developed through analyses led by the Canadian Institute for Climate Choices. 
+
+https://climatechoices.ca/reports/under-water/
+https://climatechoices.ca/reports/the-health-costs-of-climate-change/
+
 Please cite this data as: Clark, Dylan G., Ryan Ness, Dena Coffman, Julien Bourque, and Dale Beugin. 2021. 'Costs of Climate Change Web-Portal'. Canadian Institute for Climate Choices.
 This document provides description of the following files:
  - CostCCPTData
