@@ -1,0 +1,171 @@
+Region,Critical_inf_type,Sub_type,Total properties,Number with flood defenses,Number in 20yr floodplain,Number in 100yr floodplain,Number in 200yr floodplain,Number in 500yr floodplain
+AB,Airport,HELIPORT,94,21,7,10,15,18
+AB,Airport,LAND,308,2,22,33,41,47
+AB,Airport,WATER,6,,6,6,6,6
+AB,Police,FEDERAL AGENCIES,41,23,3,3,7,9
+AB,Police,POLICE SERVICES,17,8,2,2,9,10
+AB,Police,PROVINCIAL AGENCIES,20,13,2,3,5,8
+AB,Police,RCMP AGENCIES,165,46,12,20,48,51
+AB,Police,Local,20,12,2,2,8,10
+AB,Fire,Fire,284,66,21,35,47,59
+AB,HCR,Health clinic,247,45,9,16,31,39
+AB,HCR,Hospital,79,26,5,10,14,14
+AB,HCR,Live-in care,96,33,3,9,19,21
+AB,HCR,Paramedical Services,73,48,2,3,15,20
+AB,HCR,Public health,66,5,,2,5,7
+AB,Ambulance,Ambulance station,41,4,2,2,4,5
+BC,Airport,HELIPORT,121,6,22,23,24,28
+BC,Airport,LAND,231,6,44,57,64,75
+BC,Airport,WATER,115,3,84,84,84,89
+BC,Police,FEDERAL AGENCIES,53,10,7,9,9,18
+BC,Police,POLICE SERVICES,19,1,1,1,1,1
+BC,Police,PROVINCIAL AGENCIES,29,7,3,5,5,7
+BC,Police,RCMP AGENCIES,254,20,28,38,40,53
+BC,Police,Local,73,14,4,6,6,15
+BC,Fire,Fire,604,53,74,99,110,144
+BC,HCR,Health clinic,68,4,8,12,12,15
+BC,HCR,Hospital,196,19,15,16,17,30
+BC,HCR,Live-in care,178,32,10,14,16,34
+BC,HCR,Public health,11,2,1,1,1,1
+BC,Ambulance,Ambulance station,1,,1,1,1,1
+MB,Airport,HELIPORT,6,1,,1,1,1
+MB,Airport,LAND,130,10,13,20,23,27
+MB,Airport,WATER,25,1,12,14,15,16
+MB,Police,FEDERAL AGENCIES,15,9,5,6,7,7
+MB,Police,POLICE SERVICES,17,5,,,,
+MB,Police,PROVINCIAL AGENCIES,6,6,,,,
+MB,Police,RCMP AGENCIES,109,24,10,17,17,22
+MB,Police,Local,13,6,2,2,2,3
+MB,Fire,Fire,202,42,10,20,29,33
+MB,HCR,Health clinic,105,10,6,11,15,15
+MB,HCR,Hospital,61,13,6,7,10,13
+MB,HCR,Live-in care,119,34,9,12,19,21
+MB,HCR,Paramedical Services,1,,,,,
+MB,HCR,Public health,17,,2,2,2,3
+MB,Ambulance,Ambulance station,9,,1,1,2,2
+NB,Airport,HELIPORT,9,3,,,1,1
+NB,Airport,LAND,47,,4,6,6,7
+NB,Airport,WATER,2,,2,2,2,2
+NB,Police,FEDERAL AGENCIES,30,1,4,5,6,7
+NB,Police,POLICE SERVICES,7,1,,,,
+NB,Police,PROVINCIAL AGENCIES,9,1,1,1,1,1
+NB,Police,RCMP AGENCIES,98,,,,8,9
+NB,Police,Local,18,1,1,1,1,2
+NB,Fire,Fire,58,,10,10,11,13
+NB,HCR,Health clinic,9,,,,,1
+NB,HCR,Hospital,40,2,1,1,2,2
+NB,HCR,Live-in care,72,2,5,9,10,11
+NB,HCR,Public health,5,,,,,
+NB,Ambulance,Ambulance station,11,,,1,3,3
+NL,Airport,HELIPORT,6,2,,,,
+NL,Airport,LAND,40,1,2,3,4,4
+NL,Airport,WATER,14,,12,12,12,12
+NL,Police,FEDERAL AGENCIES,11,2,,,2,2
+NL,Police,POLICE SERVICES,4,,1,1,1,1
+NL,Police,PROVINCIAL AGENCIES,1,,,,,
+NL,Police,RCMP AGENCIES,59,13,2,3,3,3
+NL,Police,Local,1,,,,,
+NL,Fire,Fire,192,7,18,28,33,37
+NL,HCR,Health clinic,38,,3,7,7,8
+NL,HCR,Hospital,22,3,2,4,4,4
+NL,HCR,Live-in care,66,6,6,7,10,11
+NL,Ambulance,Ambulance station,47,,6,9,11,13
+NS,Airport,HELIPORT,22,,,,,1
+NS,Airport,LAND,32,,3,4,5,5
+NS,Airport,WATER,13,,8,8,8,8
+NS,Police,FEDERAL AGENCIES,15,,,,,
+NS,Police,POLICE SERVICES,12,,1,1,1,1
+NS,Police,PROVINCIAL AGENCIES,9,,,1,1,2
+NS,Police,RCMP AGENCIES,85,,6,8,10,24
+NS,Police,Local,18,,1,1,1,3
+NS,Fire,Fire,111,,14,21,22,24
+NS,HCR,Health clinic,8,,1,1,1,1
+NS,HCR,Hospital,51,,5,5,5,5
+NS,HCR,Live-in care,74,,3,5,6,7
+NS,HCR,Public health,1,,,,,
+NS,Ambulance,Ambulance station,6,,,,,
+NT,Airport,HELIPORT,9,,1,2,2,2
+NT,Airport,LAND,71,,10,10,11,13
+NT,Airport,WATER,32,,22,25,25,25
+NT,Police,FEDERAL AGENCIES,3,,,,,
+NT,Police,RCMP AGENCIES,38,,1,2,2,2
+NT,Fire,Fire,2,,,,,
+NT,HCR,Health clinic,18,,2,3,3,4
+NT,HCR,Hospital,4,,,,,
+NT,HCR,Live-in care,3,,,1,1,1
+NU,Airport,LAND,79,,9,10,11,11
+NU,Airport,WATER,9,,1,1,1,1
+NU,Police,FEDERAL AGENCIES,1,,,,,
+NU,Police,RCMP AGENCIES,32,,2,3,3,3
+NU,HCR,Health clinic,22,,1,1,1,1
+NU,HCR,Hospital,2,,,,,
+NU,HCR,Live-in care,1,,,,,
+NU,HCR,Public health,1,,,,,
+ON,Airport,HELIPORT,115,30,6,9,13,20
+ON,Airport,LAND,412,29,21,30,38,45
+ON,Airport,WATER,138,8,68,70,75,78
+ON,Police,FEDERAL AGENCIES,124,85,2,11,19,22
+ON,Police,OPP AGENCIES,89,12,3,6,10,11
+ON,Police,OPP HQ,5,5,,,,
+ON,Police,POLICE SERVICES,111,65,6,9,17,19
+ON,Police,PROVINCIAL AGENCIES,27,24,,,1,3
+ON,Police,RCMP AGENCIES,74,46,11,13,14,22
+ON,Police,RCMP HQ OTTAWA,29,22,,,,
+ON,Police,Local,195,125,7,15,24,27
+ON,Fire,Fire,893,297,64,104,158,178
+ON,HCR,Health clinic,150,43,4,10,19,22
+ON,HCR,Hospital,360,157,11,24,40,40
+ON,HCR,Live-in care,438,168,19,28,42,49
+ON,HCR,Paramedical Services,7,3,,,,
+ON,HCR,Public health,24,8,,,2,2
+ON,Ambulance,Ambulance station,32,4,1,2,2,4
+PE,Airport,HELIPORT,2,,,,,
+PE,Airport,LAND,6,,,,,
+PE,Airport,WATER,1,,1,1,1,1
+PE,Police,FEDERAL AGENCIES,2,,,,,
+PE,Police,POLICE SERVICES,4,,,,,
+PE,Police,PROVINCIAL AGENCIES,2,,,,,
+PE,Police,RCMP AGENCIES,11,,1,1,1,1
+PE,Police,Local,5,,,,,
+PE,Fire,Fire,42,,5,5,6,7
+PE,HCR,Hospital,12,,2,2,2,2
+PE,HCR,Live-in care,29,,4,4,4,4
+PE,Ambulance,Ambulance station,3,,,,,
+QC,Airport,HELIPORT,60,14,3,8,11,12
+QC,Airport,LAND,198,19,16,23,29,35
+QC,Airport,WATER,77,11,41,49,53,53
+QC,Police,FEDERAL AGENCIES,59,28,4,7,8,9
+QC,Police,POLICE SERVICES,268,185,10,45,45,48
+QC,Police,PROVINCIAL AGENCIES,64,23,3,6,7,7
+QC,Police,RCMP AGENCIES,69,41,2,4,5,6
+QC,Police,SQ AGENCIES,396,167,8,16,21,42
+QC,Police,Local,142,94,,6,11,13
+QC,Fire,Fire,1234,187,48,110,134,151
+QC,HCR,Health clinic,4,2,,,,
+QC,HCR,Hospital,125,51,,10,12,14
+QC,HCR,Live-in care,60,26,3,6,6,7
+QC,HCR,Paramedical Services,3,2,,,,
+QC,Ambulance,Ambulance station,54,7,6,6,7,9
+SK,Airport,HELIPORT,7,1,,2,2,2
+SK,Airport,LAND,190,2,14,20,21,27
+SK,Airport,WATER,14,,6,7,7,7
+SK,Police,FEDERAL AGENCIES,20,7,1,3,5,5
+SK,Police,POLICE SERVICES,15,5,1,2,2,2
+SK,Police,PROVINCIAL AGENCIES,14,1,,1,1,1
+SK,Police,RCMP AGENCIES,157,15,2,5,7,9
+SK,Police,Local,15,3,1,2,3,3
+SK,Fire,Fire,327,11,12,19,21,29
+SK,HCR,Health clinic,108,2,4,10,12,13
+SK,HCR,Hospital,68,7,5,8,9,10
+SK,HCR,Live-in care,133,17,5,9,11,13
+SK,HCR,Public health,13,,,,,
+SK,Ambulance,Ambulance station,29,2,1,3,3,3
+YT,Airport,LAND,51,,5,5,6,6
+YT,Airport,WATER,9,,3,3,3,3
+YT,Police,FEDERAL AGENCIES,4,,,,,
+YT,Police,RCMP AGENCIES,16,,1,1,1,5
+YT,Police,TERRITORIAL AGENCIES,1,,,,,
+YT,Fire,Fire,1,,,,,1
+YT,HCR,Health clinic,14,,2,2,2,2
+YT,HCR,Hospital,6,,2,2,2,2
+YT,HCR,Live-in care,2,,1,1,1,1

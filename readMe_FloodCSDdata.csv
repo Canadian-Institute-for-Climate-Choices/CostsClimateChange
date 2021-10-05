@@ -1,0 +1,61 @@
+Layer,yr,RCP,Outcome,Unit,Adaptation,Map_Title,Map_Title2,BinNum
+layer_2,2020,Low-emissions,Inland flooding,Total value of all buildings,No adaptation,Estimated value of all buildings per CSD ($),,bin1
+layer_2,2020,High-emissions,Inland flooding,Total value of all buildings,No adaptation,Estimated value of all buildings per CSD ($),,bin1
+layer_3,2020,Low-emissions,Inland flooding,Total cost ($),No adaptation,Cost of inland flooding in 2020 under a low-emissions scenario without adaptation ($),,bin2
+layer_3,2020,High-emissions,Inland flooding,Total cost ($),No adaptation,Cost of inland flooding in 2020 under a high-emissions scenario without adaptation ($),,bin2
+layer_5,2050,Low-emissions,Inland flooding,Total cost ($),No adaptation,Cost of inland flooding in 2050 under a low-emissions scenario without adaptation ($),,bin2
+layer_6,2050,High-emissions,Inland flooding,Total cost ($),No adaptation,Cost of inland flooding in 2050 under a high-emissions scenario without adaptation ($),,bin2
+layer_7,2080,Low-emissions,Inland flooding,Total cost ($),No adaptation,Cost of inland flooding in 2080 under a low-emissions scenario without adaptation ($),,bin2
+layer_8,2080,High-emissions,Inland flooding,Total cost ($),No adaptation,Cost of inland flooding in 2080 under a high-emissions scenario without adaptation ($),,bin2
+layer_15,2020,Low-emissions,Coastal flooding,Total value of all buildings,No adaptation,Estimated value of all buildings assessed in the coastal flooding model per CSD ($),,bin3
+layer_15,2020,High-emissions,Coastal flooding,Total value of all buildings,No adaptation,Estimated value of all buildings assessed in the coastal flooding model per CSD ($),,bin3
+layer_16,2020,Low-emissions,Coastal flooding,Value of buildings within 1m of sea level,No adaptation,Estimated value of all buildings within 1 metre of present sea level ($),,bin8
+layer_16,2020,High-emissions,Coastal flooding,Value of buildings within 1m of sea level,No adaptation,Estimated value of all buildings within 1 metre of present sea level ($),,bin8
+layer_17,2020,Low-emissions,Coastal flooding,Value of buildings within 2m of sea level,No adaptation,Estimated value of all buildings within 2 metre of present sea level ($),,bin8
+layer_17,2020,High-emissions,Coastal flooding,Value of buildings within 2m of sea level,No adaptation,Estimated value of all buildings within 2 metre of present sea level ($),,bin8
+layer_18,2020,Low-emissions,Coastal flooding,Total cost ($),No adaptation,Cost of coastal flooding in 2020 under a low-emissions scenario without adaptation ($),,bin4
+layer_18,2020,High-emissions,Coastal flooding,Total cost ($),No adaptation,Cost of coastal flooding in 2020 under a high-emissions scenario without adaptation ($),,bin4
+layer_20,2050,Low-emissions,Coastal flooding,Total cost ($),No adaptation,Cost of coastal flooding in 2050 under a low-emissions scenario without adaptation ($),,bin4
+layer_23,2050,High-emissions,Coastal flooding,Total cost ($),No adaptation,Cost of coastal flooding in 2050 under a high-emissions scenario without adaptation ($),,bin4
+layer_26,2080,Low-emissions,Coastal flooding,Total cost ($),No adaptation,Cost of coastal flooding in 2080 under a low-emissions scenario without adaptation ($),,bin4
+layer_29,2080,High-emissions,Coastal flooding,Total cost ($),No adaptation,Cost of coastal flooding in 2080 under a high-emissions scenario without adaptation ($),,bin4
+layer_43,2020,Low-emissions,Coastal flooding,Number of buildings permanently inundated,No adaptation,Number of buildings permanently inundated by sea level rise in 2020 under a low-emissions scenario without adaptation,,bin5
+layer_43,2020,High-emissions,Coastal flooding,Number of buildings permanently inundated,No adaptation,Number of buildings permanently inundated by sea level rise in 2020 under a high-emissions scenario without adaptation,,bin5
+layer_45,2050,Low-emissions,Coastal flooding,Number of buildings permanently inundated,No adaptation,Number of buildings permanently inundated by sea level rise in 2050 under a low-emissions scenario without adaptation,,bin5
+layer_48,2050,High-emissions,Coastal flooding,Number of buildings permanently inundated,No adaptation,Number of buildings permanently inundated by sea level rise in 2050 under a high-emissions scenario without adaptation,,bin5
+layer_51,2080,Low-emissions,Coastal flooding,Number of buildings permanently inundated,No adaptation,Number of buildings permanently inundated by sea level rise in 2080 under a low-emissions scenario without adaptation,,bin5
+layer_54,2080,High-emissions,Coastal flooding,Number of buildings permanently inundated,No adaptation,Number of buildings permanently inundated by sea level rise in 2080 under a high-emissions scenario without adaptation,,bin5
+layer_56,2020,Low-emissions,Coastal flooding,Number of buildings inundated by 50-yr storm surge,No adaptation,Number of buildings inundated by storm surges in 2020 under a low-emissions scenario without adaptation,,bin5
+layer_56,2020,High-emissions,Coastal flooding,Number of buildings inundated by 50-yr storm surge,No adaptation,Number of buildings inundated by storm surges in 2020 under a high-emissions scenario without adaptation,,bin5
+layer_58,2050,Low-emissions,Coastal flooding,Number of buildings inundated by 50-yr storm surge,No adaptation,Number of buildings inundated by storm surges in 2050 under a low-emissions scenario without adaptation,,bin5
+layer_61,2050,High-emissions,Coastal flooding,Number of buildings inundated by 50-yr storm surge,No adaptation,Number of buildings inundated by storm surges in 2050 under a high-emissions scenario without adaptation,,bin5
+layer_64,2080,Low-emissions,Coastal flooding,Number of buildings inundated by 50-yr storm surge,No adaptation,Number of buildings inundated by storm surges in 2080 under a low-emissions scenario without adaptation,,bin5
+layer_67,2080,High-emissions,Coastal flooding,Number of buildings inundated by 50-yr storm surge,No adaptation,Number of buildings inundated by storm surges in 2080 under a high-emissions scenario without adaptation,,bin5
+layer_70,2020,Low-emissions,Inland flooding,Number of buildings in 100 yr floodplain,No adaptation,Number of buildings presently in a 100 year floodplain (accounting for defenses),,bin6
+layer_72,2020,Low-emissions,Inland flooding,Number of buildings in 200 yr floodplain,No adaptation,Number of buildings presently in a 200 year floodplain (accounting for defenses),,bin6
+layer_73,2020,Low-emissions,Inland flooding,Number of buildings in 500 yr floodplain,No adaptation,Number of buildings presently in a 500 year floodplain (accounting for defenses),,bin6
+layer_74,2020,Low-emissions,Inland flooding,Number of buildings protected by defenses,No adaptation,Number of building protected by flood defenses,,bin6
+layer_75,2020,Low-emissions,Inland flooding,Total number of buildings,No adaptation,Total number of buildings (data from Bing),,bin7
+layer_74,2020,Low-emissions,Coastal flooding,Number of buildings protected by defenses,No adaptation,Number of building protected by flood defenses,,bin6
+layer_75,2020,Low-emissions,Coastal flooding,Total number of buildings,No adaptation,Total number of buildings (data from Bing),,bin7
+layer_70,2020,High-emissions,Inland flooding,Number of buildings in 100 yr floodplain,No adaptation,Number of buildings presently in a 100 year floodplain (accounting for defenses),,bin6
+layer_72,2020,High-emissions,Inland flooding,Number of buildings in 200 yr floodplain,No adaptation,Number of buildings presently in a 200 year floodplain (accounting for defenses),,bin6
+layer_73,2020,High-emissions,Inland flooding,Number of buildings in 500 yr floodplain,No adaptation,Number of buildings presently in a 500 year floodplain (accounting for defenses),,bin6
+layer_74,2020,High-emissions,Inland flooding,Number of buildings protected by defenses,No adaptation,Number of building protected by flood defenses,,bin6
+layer_75,2020,High-emissions,Inland flooding,Total number of buildings,No adaptation,Total number of buildings (data from Bing),,bin7
+layer_74,2020,High-emissions,Coastal flooding,Number of buildings protected by defenses,No adaptation,Number of building protected by flood defenses,,bin6
+layer_75,2020,High-emissions,Coastal flooding,Total number of buildings,No adaptation,Total number of buildings (data from Bing),,bin7
+layer_2,2020,Low-emissions,Inland flooding,Total value of all buildings,Proactive adaptation,Estimated value of all buildings per CSD ($),,
+layer_2,2020,High-emissions,Inland flooding,Total value of all buildings,Proactive adaptation,Estimated value of all buildings per CSD ($),,
+layer_4,2020,Low-emissions,Inland flooding,Total cost ($),Proactive adaptation,Cost of inland flooding in 2020 under a low-emissions scenario with adaptation ($),,
+layer_4,2020,High-emissions,Inland flooding,Total cost ($),Proactive adaptation,Cost of inland flooding in 2020 under a high-emissions scenario with adaptation ($),,
+layer_11,2050,Low-emissions,Inland flooding,Total cost ($),Proactive adaptation,Cost of inland flooding in 2050 under a low-emissions scenario with adaptation ($),,
+layer_12,2050,High-emissions,Inland flooding,Total cost ($),Proactive adaptation,Cost of inland flooding in 2050 under a high-emissions scenario with adaptation ($),,
+layer_13,2080,Low-emissions,Inland flooding,Total cost ($),Proactive adaptation,Cost of inland flooding in 2080 under a low-emissions scenario with adaptation ($),,
+layer_14,2080,High-emissions,Inland flooding,Total cost ($),Proactive adaptation,Cost of inland flooding in 2080 under a high-emissions scenario with adaptation ($),,
+layer_18,2020,Low-emissions,Coastal flooding,Total cost ($),Proactive adaptation,Cost of coastal flooding in 2020 under a low-emissions scenario with adaptation ($),,
+layer_18,2020,High-emissions,Coastal flooding,Total cost ($),Proactive adaptation,Cost of coastal flooding in 2020 under a high-emissions scenario with adaptation ($),,
+layer_32,2050,Low-emissions,Coastal flooding,Total cost ($),Proactive adaptation,Cost of coastal flooding in 2050 under a low-emissions scenario with adaptation ($),,
+layer_35,2050,High-emissions,Coastal flooding,Total cost ($),Proactive adaptation,Cost of coastal flooding in 2050 under a high-emissions scenario with adaptation ($),,
+layer_38,2080,Low-emissions,Coastal flooding,Total cost ($),Proactive adaptation,Cost of coastal flooding in 2080 under a low-emissions scenario with adaptation ($),,
+layer_41,2080,High-emissions,Coastal flooding,Total cost ($),Proactive adaptation,Cost of coastal flooding in 2080 under a high-emissions scenario with adaptation ($),,
